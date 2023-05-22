@@ -1,0 +1,17 @@
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\bin\Debug\net7.0\test552.Service.deps.json
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\bin\Debug\net7.0\test552.Service.dll
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\bin\Debug\net7.0\test552.Service.pdb
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\bin\Debug\net7.0\test552.DataAccess.dll
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\bin\Debug\net7.0\test552.DTO.dll
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\bin\Debug\net7.0\test552.DTO.pdb
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\bin\Debug\net7.0\test552.DataAccess.pdb
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\obj\Debug\net7.0\test552.Service.csproj.AssemblyReference.cache
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\obj\Debug\net7.0\test552.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\obj\Debug\net7.0\test552.Service.AssemblyInfoInputs.cache
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\obj\Debug\net7.0\test552.Service.AssemblyInfo.cs
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\obj\Debug\net7.0\test552.Service.csproj.CoreCompileInputs.cache
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\obj\Debug\net7.0\test552.Service.csproj.CopyComplete
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\obj\Debug\net7.0\test552.Service.dll
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\obj\Debug\net7.0\refint\test552.Service.dll
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\obj\Debug\net7.0\test552.Service.pdb
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.Service\obj\Debug\net7.0\ref\test552.Service.dll

@@ -1,0 +1,12 @@
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\obj\Debug\net7.0\test552.DTO.csproj.AssemblyReference.cache
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\obj\Debug\net7.0\test552.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\obj\Debug\net7.0\test552.DTO.AssemblyInfoInputs.cache
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\obj\Debug\net7.0\test552.DTO.AssemblyInfo.cs
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\obj\Debug\net7.0\test552.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\obj\Debug\net7.0\test552.DTO.dll
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\obj\Debug\net7.0\refint\test552.DTO.dll
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\obj\Debug\net7.0\test552.DTO.pdb
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\bin\Debug\net7.0\test552.DTO.deps.json
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\bin\Debug\net7.0\test552.DTO.dll
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\bin\Debug\net7.0\test552.DTO.pdb
+C:\Amar\Application\20230518\Apps\1\956\202305224143\test552\test552.DTO\obj\Debug\net7.0\ref\test552.DTO.dll
